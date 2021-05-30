@@ -50,7 +50,7 @@ Pairplot to compare the relation between parameters:
 * Average annual income (in thousends) for customers in cluster four: 80.5
 * Average annual income (in thousends) for customers in cluster five: 40.6
  
- * BoxPlot to visualize the K(=5) clusters with respect to **Customer Spndings**:
+ **3)** BoxPlot to visualize the K(=5) clusters with respect to **Customer Spndings**:
 
  ![SpendingCluster_plot](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall/blob/main/plots/Spending_cluster.png)
  
@@ -61,6 +61,4 @@ Pairplot to compare the relation between parameters:
 * Average Spending Score (1-100) for customers in cluster four: 15.9
 * Average Spending Score (1-100) for customers in cluster five: 63.6
  
- ## Conclusion:
- 
- * Cluster one: 
+
