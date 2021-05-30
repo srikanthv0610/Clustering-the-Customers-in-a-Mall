@@ -18,24 +18,49 @@ Pairplot to compare the relation between parameters:
 
 ![Correlation_plot](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall/blob/main/plots/Figure_2.png)
 
+
 ## Visualizing the K-mean Clustering:
 
 ![Cluster_plot](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall/blob/main/plots/Figure_3.png)
 
+**Observations:**
+* We have 5 clusters into which the customers are grouped. 
+* The centroid points in each clusters are the mean values of that clusters to which the other customers belong.
+
 ## Cluster-wise Parameter Analysis and Observations:
 
-* BoxPlot to visualize the K(=5) clusters with respect to **Age**:
-
+**1)** BoxPlot to visualize the K(=5) clusters with respect to **Age**:
  ![AgeCluster_plot](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall/blob/main/plots/agewise_cluster.png)
+  
+**Observations:**
+* Average age for customers in cluster one: 44.3
+* Average age for customers in cluster two: 51.8
+* Average age for customers in cluster three: 32.1
+* Average age for customers in cluster four: 41.6
+* Average age for customers in cluster five: 24.3
  
- 
-* BoxPlot to visualize the K(=5) clusters with respect to **Income earned**:
+**2)** BoxPlot to visualize the K(=5) clusters with respect to **Income earned**:
 
  ![IncomeCluster_plot](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall/blob/main/plots/income_cluster.png)
+ 
+ **Observations:**
+* Average annual income (in thousends) for customers in cluster one: 25.8
+* Average annual income (in thousends) for customers in cluster two: 55.2
+* Average annual income (in thousends) for customers in cluster three: 79.4
+* Average annual income (in thousends) for customers in cluster four: 80.5
+* Average annual income (in thousends) for customers in cluster five: 40.6
  
  * BoxPlot to visualize the K(=5) clusters with respect to **Customer Spndings**:
 
  ![SpendingCluster_plot](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall/blob/main/plots/Spending_cluster.png)
  
+  **Observations:**
+* Average Spending Score (1-100) for customers in cluster one: 16.2
+* Average Spending Score (1-100) for customers in cluster two: 48.8
+* Average Spending Score (1-100) for customers in cluster three: 85.0
+* Average Spending Score (1-100) for customers in cluster four: 15.9
+* Average Spending Score (1-100) for customers in cluster five: 63.6
  
+ ## Conclusion:
  
+ * Cluster one: 
