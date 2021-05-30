@@ -40,4 +40,4 @@ Pairplot to compare the relation between parameters:
  # Conclusion:
  
  
- ![Cluster_1](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall/blob/main/plots/Cluster 1.png)
+ ![Cluster_1](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall/blob/main/plots/Cluster_1.PNG)
