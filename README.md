@@ -1,4 +1,4 @@
-# Clustering-the-Customers-in-a-Mall
+# Clustering the Customers in Mall using Kmean Clustering Algorithm:
 
 The project aimes to group the different types of customers in a mall using the K-Means clustering technique.  
 
