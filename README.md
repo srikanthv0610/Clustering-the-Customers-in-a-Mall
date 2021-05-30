@@ -14,5 +14,7 @@ The project aimes to group the different types of customers in a mall using the 
 
 ## Visualizing the Data:
 
+Pairplot to compare the relation between parameters:
+
 ![Correlation_plot](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall/blob/main/plots/Figure_2.png)
 
