@@ -18,3 +18,7 @@ Pairplot to compare the relation between parameters:
 
 ![Correlation_plot](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall/blob/main/plots/Figure_2.png)
 
+## Visualizing the K-mean Cluster:
+
+![Cluster_plot](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall/blob/main/plots/Figure_3.png)
+
