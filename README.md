@@ -20,26 +20,22 @@ Pairplot to compare the relation between parameters:
 
 ## Visualizing the K-mean Clustering:
 
-![Cluster_plot](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall/blob/main/plots/Figure_3.pn)
+![Cluster_plot](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall/blob/main/plots/Figure_3.png)
 
-## Cluster-wise Parameter Analysis:
+## Cluster-wise Parameter Analysis and Observations:
 
 * BoxPlot to visualize the K(=5) clusters with respect to **Age**:
 
- ![AgeCluster_plot](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall/blob/main/plots/agewise_cluster.pn)
+ ![AgeCluster_plot](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall/blob/main/plots/agewise_cluster.png)
  
  
 * BoxPlot to visualize the K(=5) clusters with respect to **Income earned**:
 
- ![IncomeCluster_plot](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall/blob/main/plots/income_cluster.pn)
+ ![IncomeCluster_plot](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall/blob/main/plots/income_cluster.png)
  
  * BoxPlot to visualize the K(=5) clusters with respect to **Customer Spndings**:
 
- ![SpendingCluster_plot](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall/blob/main/plots/Spending_cluster.pn)
+ ![SpendingCluster_plot](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall/blob/main/plots/Spending_cluster.png)
  
- # Conclusion:
- 
- 
- ![Cluster_1](https://github.com/srikanthv0610/Clustering-the-Customers-in-a-Mall/blob/main/plots/Cluster_1.PN)
  
  
